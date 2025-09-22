@@ -1,0 +1,20 @@
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+dist/
+.build/
+.cache/
+coverage/
+
+# Env & local
+.env
+.env.*
+*.sqlite
+*.db
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+EOF
