@@ -1,4 +1,4 @@
-# The Last of Guss (WIP)
+# The Last of Guss
 
 Монорепо из двух пакетов:
 - `server` — Node.js + TypeScript + Fastify + Prisma + PostgreSQL
