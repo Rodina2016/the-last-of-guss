@@ -21,13 +21,15 @@ docker run --name guss-postgres \
 ```
 
 ### 2. запуск бэка
-cd server
+```cd server
 npx prisma migrate dev
 npm install
 npm run dev
+```
 
 
 ### 2. запуск фронта
-cd web
+```cd web
 npm install
 npm run dev
+```
